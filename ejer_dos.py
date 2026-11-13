@@ -11,3 +11,5 @@ if compra>3:
     total=(compra*docena)*(1-15/100)
 else:
     total=(compra*docena)*(1-10/100)
+    
+print("Agregue un print")
